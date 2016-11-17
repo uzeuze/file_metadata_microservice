@@ -1,3 +1,5 @@
+"use strict";
+
 const express = require('express'),
       multer  = require('multer'),
       path    = require('path'),
